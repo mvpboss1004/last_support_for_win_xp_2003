@@ -12,4 +12,4 @@ This is a collection of softwares with its last support version of windows xp an
 | Name | Home Page | Download Link |
 | :-: | :-: | :-: |
 | Git for Windows 2.10.0 | [https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1](https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1) | [Git-2.10.0-32-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/Git-2.10.0-32-bit.exe) |
-| Visual Studio 2010 Express |  | [cn_visual_studio_2010_express_x86_dvd_532024.iso](ed2k://\|file\|cn_visual_studio_2010_express_x86_dvd_532024.iso\|1884567552\|3BB6EFEECD4966BE6DFAAB5D579A80CF\|/) |
+| Visual Studio 2010 Express |  | [cn_visual_studio_2010_express_x86_dvd_532024.iso](ed2k://&#124;file&#124;cn_visual_studio_2010_express_x86_dvd_532024.iso&#124;1884567552&#124;3BB6EFEECD4966BE6DFAAB5D579A80CF&#124;/) |
