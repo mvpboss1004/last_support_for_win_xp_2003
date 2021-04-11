@@ -6,7 +6,8 @@ This is a collection of softwares with its last support version of windows xp an
 | :-: | :-: | :-: |
 | Python 3.4.4 | [https://www.python.org/downloads/release/python-344/](https://www.python.org/downloads/release/python-344/) | [python-3.4.4.msi](https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi) |
 | IPython 3.2.1 | [https://pypi.org/project/ipython/3.2.1/](https://pypi.org/project/ipython/3.2.1/) | [ipython-3.2.1-py3-none-any.whl](https://files.pythonhosted.org/packages/df/55/a4d517c8d0d163419eb00fb17c09b71931ce04bce433adbde569f32331dc/ipython-3.2.1-py3-none-any.whl) |
-| numpy-1.16.6 | [https://pypi.org/project/numpy/1.16.6/](https://pypi.org/project/numpy/1.16.6/) | [numpy-1.16.6.zip](https://files.pythonhosted.org/packages/b7/6f/24647f014eef9b67a24adfcbcd4f4928349b4a0f8393b3d7fe648d4d2de3/numpy-1.16.6.zip)
+| numpy 1.16.6 | [https://pypi.org/project/numpy/1.16.6/](https://pypi.org/project/numpy/1.16.6/) | [numpy-1.16.6.zip](https://files.pythonhosted.org/packages/b7/6f/24647f014eef9b67a24adfcbcd4f4928349b4a0f8393b3d7fe648d4d2de3/numpy-1.16.6.zip) |
+| pandas 0.20.3 | [https://pypi.org/project/pandas/0.20.3/](https://pypi.org/project/pandas/0.20.3/) | [pandas-0.20.3-cp34-cp34m-win32.whl](https://files.pythonhosted.org/packages/ac/64/5d19505cab19bea543974cf6f925dd26ff4cdd68cec5553e9417ecd5775d/pandas-0.20.3-cp34-cp34m-win32.whl) |
 
 # 2. Software
 | Name | Home Page | Download Link |
